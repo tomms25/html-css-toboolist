@@ -24,15 +24,15 @@ header{
     margin-left: 15px;
     margin-top: 10px;
     margin-bottom: 10px;
-    line-height: 50px;
     vertical-align: middle;
     
     
 }
 
 .logo_text{
-    font-size: 50px;
+    font-size: 45px;
     color: rgb(2, 23, 50);
+    margin-top: 30px;
     
     
 }
@@ -66,6 +66,9 @@ header{
     font-size: 10px;
     padding: 5px 10px;
     border-radius: 15%;
+    margin-left: 40px;
+    margin-top: 5px;
+    margin-bottom: 5px;
 
 
 }
@@ -99,6 +102,8 @@ header{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 25px;
     color: black;
+    margin-left: 20px;
+    margin-bottom: 10px;
 }
 
 
@@ -116,13 +121,89 @@ header{
 
 .check{
     display: inline-block;
-    width: 15px;
-    height: 15px;
+    width: 23px;
+    height: 23px;
     border: 2px solid rgb(101, 192, 169);
     text-align: center;
     vertical-align: middle;
     border-radius: 50%;
     margin-right: 8px;
+    color: rgb(101, 192, 169);
+    margin-left: 18px;
 
 }
 
+.identification1{
+    color: white;
+    font-size: 11px;
+    background-color: rgb(69, 171, 234);
+    display: inline-block;
+    text-align: center;
+    padding: 5px 10px;
+    border-radius: 20%;
+    border-end-start-radius: 20%; 
+    margin-left: 10px;
+}
+
+.second-section{
+    margin-top: 40px;
+}
+
+p{
+    margin-top: 12px;
+}
+
+.cross{
+    display: inline-block;
+    width: 23px;
+    height: 23px;
+    border: 2px solid rgb(235, 89, 82);
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 50%;
+    margin-right: 8px;
+    color: rgb(235, 89, 82);
+    margin-left: 18px;
+}
+
+
+.identification2{
+    color: white;
+    font-size: 11px;
+    background-color: rgb(156, 114, 228);
+    display: inline-block;
+    text-align: center;
+    padding: 5px 10px;
+    border-radius: 20%;
+    border-end-start-radius: 20%; 
+    margin-left: 10px;
+}
+
+
+.identification3{
+    color: white;
+    font-size: 11px;
+    background-color: rgb(100, 192, 169);
+    display: inline-block;
+    text-align: center;
+    padding: 5px 10px;
+    border-radius: 20%;
+    border-end-start-radius: 20%; 
+    margin-left: 10px;
+}
+
+.identification4{
+    color: white;
+    font-size: 11px;
+    background-color: rgb(242, 158, 51);
+    display: inline-block;
+    text-align: center;
+    padding: 5px 10px;
+    border-radius: 20%;
+    border-end-start-radius: 20%; 
+    margin-left: 10px;
+}
+
+.third-section{
+    margin-top: 40px;
+}
