@@ -34,14 +34,16 @@ header{
     font-size: 50px;
     color: rgb(2, 23, 50);
     
+    
 }
 
 
 .container{
-    margin: auto;
+    margin: 0 auto;
     padding: 30px;
     box-sizing: border-box;
     color: white;
+    width: 900px;
 }
 
 
@@ -49,6 +51,8 @@ header{
     
     background-color: white;
     background-size: 30px;
+    padding: 10px;
+    width: 900px;
 }
 
 
@@ -67,7 +71,7 @@ header{
 }
 
 .white-button{
-    background-color: white;
+    background-color: lightgrey;
     border: none;
     color: grey;
     text-align: center;
@@ -75,6 +79,18 @@ header{
     font-size: 10px;
     padding: 5px 10px;
     border-radius: 15%;
+
+}
+
+
+.Task{
+    
+    margin-top: 5px;
+    padding: 30px;
+    box-sizing: border-box;
+    background-color: white;
+    width: 900px; 
+    height: 1000px;          
 
 }
 
@@ -92,4 +108,21 @@ header{
     color: black;
 }
 
+.triangle{
+    font-size: 15px; 
+    margin-right: 8px;  
+    margin-bottom: 9px;
+}
+
+.check{
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    border: 2px solid rgb(101, 192, 169);
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 50%;
+    margin-right: 8px;
+
+}
 
