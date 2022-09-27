@@ -36,10 +36,60 @@ header{
     
 }
 
-main{
-    margin: 0;
-    padding: 0;
+
+.container{
+    margin: auto;
+    padding: 30px;
     box-sizing: border-box;
+    color: white;
+}
+
+
+.structure{
+    
+    background-color: white;
+    background-size: 30px;
+}
+
+
+
+.blue-button{
+    background-color: rgb(71, 173, 241);
+    border: none;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    font-size: 10px;
+    padding: 5px 10px;
+    border-radius: 15%;
+
 
 }
+
+.white-button{
+    background-color: white;
+    border: none;
+    color: grey;
+    text-align: center;
+    display: inline-block;
+    font-size: 10px;
+    padding: 5px 10px;
+    border-radius: 15%;
+
+}
+
+
+.title{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color: black;
+}
+
+
+.subtext{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: black;
+}
+
 
