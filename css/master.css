@@ -19,21 +19,23 @@ header{
 }
 
 .logo{
-    height: 70px;
+    height: 60px;
     width: auto;
     margin-left: 15px;
     margin-top: 10px;
     margin-bottom: 10px;
     vertical-align: middle;
     
+
     
 }
 
 .logo_text{
-    font-size: 45px;
+    font-size: 40px;
     color: rgb(2, 23, 50);
     margin-top: 30px;
-    
+    position: absolute;
+    margin-top: 15px;
     
 }
 
